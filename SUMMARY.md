@@ -1,9 +1,5 @@
 # 목차 
 
-* [Office Add-ins for Excel](./excel/README.md)
-  * [Quick Starts](./excel/quickstarts/README.md)
-    * [Build an Excel task pane add-in](./excel/quickstarts/excel-add-in.md)
-  * [Tutorial: Create an Excel task pane add-in](./excel/excel-add-in-tutorial.md)
-* [Initialize your Office Add-in](./excel/initialize-addin.md)  
-
-
+* [Build an Excel task pane add-in](excel/addin-01-first.md) Excel Taskpane Add-in을 만들어 보고 사용해 보기 
+* [Initialize Add-in](excel/addin-02-initialize.md) Add-in 초기화 이해 
+* [Build an Excel task pane add-in](excel/addin-03-taskpane.md) Task pane Add-in 만들기
